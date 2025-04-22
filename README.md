@@ -3,10 +3,14 @@
 ## 🎯 Objective  
 This Power BI project analyzes key aspects of human resource performance across an organization. Using structured employee data, it aims to uncover patterns in attrition, satisfaction, job engagement, and other workforce metrics that support smarter HR decisions.
 
-## 📁 Data Source  
+## 🗂️ Dataset Overview
 - **File Name**: `HR_Analytics.csv`  
-- **Records**: 1,480 employees  
-- **Columns**: 38 variables covering demographics, job role, satisfaction levels, training frequency, income, and more.
+- **Rows**: 1,480 employee records  
+- **Columns**: 38 features including:
+  - Demographics (Age, Gender, Marital Status)
+  - Job Details (Role, Department, Years at Company)
+  - Performance Metrics (Satisfaction, Involvement, Overtime)
+  - Compensation (Monthly Income, Salary Hike, Stock Options)
 
 ## 🧰 Tools & Technologies Used  
 - **Power BI Desktop** – For building interactive dashboards  
@@ -43,3 +47,10 @@ This Power BI project analyzes key aspects of human resource performance across 
 - Hands-on practice with DAX to build dynamic KPIs and calculated measures  
 - Learned to design with end-users in mind by prioritizing usability and storytelling  
 - Gained deeper understanding of HR metrics and how they influence business outcomes
+
+  
+## 📌 Future Enhancements
+
+- Integrate live data sources (SQL/SharePoint) for real-time analytics  
+- Add predictive insights using Power BI + Python/R  
+- Include benchmarking against industry standards
