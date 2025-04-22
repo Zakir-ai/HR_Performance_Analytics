@@ -17,7 +17,7 @@ This Power BI project analyzes key aspects of human resource performance across 
 - **Power Query** – For data shaping, cleaning, and transformations  
 - **DAX (Data Analysis Expressions)** – For calculated columns and performance metrics  
 - **CSV File** – Data source used directly in Power BI
-
+  
 ## 🧹 Data Preparation Highlights  
 - Checked for missing values (e.g., `YearsWithCurrManager`) and handled appropriately  
 - Ensured consistent formatting across date, numeric, and categorical fields  
