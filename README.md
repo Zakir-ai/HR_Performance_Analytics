@@ -54,3 +54,8 @@ This Power BI project analyzes key aspects of human resource performance across 
 - Integrate live data sources (SQL/SharePoint) for real-time analytics  
 - Add predictive insights using Power BI + Python/R  
 - Include benchmarking against industry standards
+
+- ## 🎥 Dashboard Walkthrough
+
+[📽️ Click here to watch the video](./Analysis.mp4)
+
